@@ -15,7 +15,7 @@
 </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Tajamar](https://www.tajamar.es/)
+- 📚 I am currently studying at [Tajamar](https://www.tajamar.es/tech/)
 
 - 🌱 I am currently studying a **Master in Full Stack Web and Multicloud Development**
 
