@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <!-- BREVE DESCRIPCION -->
-- 📚 Estudio actualmente en [Tajamar]([https://www.certus.edu.pe/](https://fpprofessionaleducation.tajamar.es/tech/)
+- 📚 Estudio actualmente en [Tajamar]([https://www.certus.edu.pe/](https://fpprofessionaleducation.tajamar.es/tech/))
 
 - 🌱 Master **Desarrollo Full Stack en Web y Multicloud**
 
