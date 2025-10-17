@@ -18,8 +18,6 @@
 - 📚 I am currently studying at Tajamar
 
 - 🌱 I am currently studying a **Master in Full Stack Web and Multicloud Development**
-
-- 💻 Passionate about technology, software development and cloud computing.
   
 - 🌐 Check out my portfolio: [**My Portfolio**](https://raul-garcia-portfolio.netlify.app/) 
 
