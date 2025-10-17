@@ -28,7 +28,7 @@
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/raúl-garcía-muñoz-595974263" target="blank">
+  <a href="https://www.linkedin.com/in/ra%C3%BAl-garc%C3%ADa-mu%C3%B1oz-595974263/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raul Garcia Muñoz" height="30" width="40" />
   </a>
 </p>
