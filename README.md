@@ -85,7 +85,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=raulgar19&theme=flat&column=7" alt="raulgar19 - Trofeos de Código" />
+    <img src="https://github-profile-trophy.vercel.app/?username=raulgar19&theme=flat&column=7" alt="raulgar19 - Trofeos de Código" />
   </a> 
 </p>
 
