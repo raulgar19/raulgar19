@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Raúl%20García%20Muñoz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20Solutions%20%7C%20DevOps&descAlignY=55&descAlign=50" alt="Header Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Raúl%20García%20Muñoz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20Web%2C%20Multiplataforma%20y%20Cloud&descAlignY=55&descAlign=50" alt="Header Animado" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/ra%C3%BAl-garc%C3%ADa-mu%C3%B1oz-595974263/" target="_blank">
@@ -77,28 +77,11 @@
 <h2 align="center">📊 Actividad en GitHub</h2>
 
 <div align="center">
-  <a href="https://github.com/raulgar19">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raulgar19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas GitHub" />
-  </a>
-  
-  <a href="https://github.com/raulgar19">
-    <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulgar19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Lenguajes" />
-  </a>
-</div>
-
-<br>
-<hr>
-
-<h2 align="center">🏆 Reconocimientos</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raulgar19&theme=onedark&column=7&no-frame=true&margin-w=15" alt="Trofeos" />
-  </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raulgar19&theme=dark&hide_border=false" alt="Streak Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E3C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=100&section=footer" width="100%"/>
 </div>
