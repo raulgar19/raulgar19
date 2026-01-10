@@ -1,92 +1,104 @@
-<hr> 
-
 <div align="center">
-    <h1>Raúl García Muñoz | Full Stack & Multi-Cloud Developer</h1>
-    <p>Especializado en el desarrollo de aplicaciones web robustas y la gestión de arquitecturas cloud en Azure y AWS.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=280&section=header&text=Raúl%20García%20Muñoz&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Cloud%20Solutions%20%7C%20DevOps&descAlignY=55&descAlign=50" alt="Header Animado" width="100%"/>
+
+<p>
+  <a href="https://www.linkedin.com/in/ra%C3%BAl-garc%C3%ADa-mu%C3%B1oz-595974263/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:raulgamu2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contactar-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://raul-garcia-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-Ver%20Proyectos-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=raulgar19&label=VISITAS&color=0e75b6&style=for-the-badge" alt="Views" />
+
 </div>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=raulgar19&label=Profile%20Views&color=2c3e50&style=flat" alt="raulgar19" /> 
-</p>
+<br>
 
----
-
-## 🎯 Resumen y Contacto
-
-* **Educación Actual:** Estudiante de **Máster en Desarrollo Web Full Stack y Multicloud** en Tajamar.
-* **Enfoque:** Construcción de soluciones escalables con tecnologías modernas de Backend (Java, .NET, Python) y Frontend (React, Angular).
-* **Portafolio:** [**Ver Proyectos Destacados**](https://raul-garcia-portfolio.netlify.app/)
-* **Email:** raulgamu2003@gmail.com
-
-<h3 align="left">Conectar:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ra%C3%BAl-garc%C3%ADa-mu%C3%B1oz-595974263/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raul Garcia Muñoz" height="30" width="40" />
-  </a>
-</p>
-
----
-
-## 🛠️ Habilidades Técnicas
-
-### 💻 Lenguajes de Programación
-<p align="left"> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/> </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" title="Kotlin"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40" title=".NET"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/> </a>
-</p>
-
-### 🌐 Frameworks & Frontend
-<p align="left"> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" title="React"/> </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" title="Angular"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" title="Vue.js"/> </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40" title="jQuery"/> </a>
-</p>
-
-### 💾 Bases de Datos
-<p align="left">
-  <a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40" title="SQL Server"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/> </a>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" title="Azure"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40" title="AWS"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/> </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> </a>
-</p>
-
-### ⚙️ Herramientas de Desarrollo y Low-Code
-<p align="left">
-  <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.5460.13795821674373682.42a749e2-3ed9-43c6-88ec-0045278b4e49.7c939c07-5097-4a52-abd1-de0a42b889ba" alt="powerapps" width="40" height="40" title="Power Apps"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40" title="VS Code"/> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40" title="Visual Studio"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40" title="IntelliJ IDEA"/> </a>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40" title="DBeaver"/> </a>
-</p>
-
----
-
-## 📊 Actividad en GitHub
+<h2 align="center">🎯 Resumen</h2>
 
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=raulgar19&theme=graywhite&count_private=true&show_icons=true&hide_border=true" alt="GitHub Stats" style="width: 45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulgar19&layout=compact&theme=graywhite&langs_count=8&hide_border=true" alt="Top Languages" style="width: 45%;"/>
+  <samp>
+    🎓 <b>Educación Actual:</b> Máster en Desarrollo Web Full Stack y Multicloud en Tajamar.<br><br>
+    🚀 <b>Enfoque:</b> Construcción de soluciones escalables con tecnologías modernas de Backend (Java, .NET, Python) y Frontend (React, Angular).<br><br>
+    ☁️ Especializado en aplicaciones web robustas y arquitecturas cloud en <b>Azure y AWS</b>.
+  </samp>
 </div>
 
----
-
-## 🏆 Reconocimientos
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raulgar19&theme=flat&column=7" alt="raulgar19 - Trofeos de Código" />
-  </a> 
-</p>
-
+<br>
 <hr>
+
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+
+<div align="center">
+
+  <h3 align="center">Lenguajes</h3>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dotnet,python,js" height="45" alt="Lenguajes" />
+  
+  <br><br>
+
+  <h3 align="center">Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,jquery" height="45" alt="Frontend" />
+
+  <br><br>
+
+  <h3 align="center">Cloud & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,docker,postman" height="45" alt="Cloud" />
+
+  <br><br>
+
+  <h3 align="center">Bases de Datos</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" width="45" alt="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+
+  <br><br>
+
+  <h3 align="center">Herramientas & Low-Code</h3>
+  <a href="https://www.microsoft.com/power-platform" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/960px-Microsoft_Power_Platform_logo.svg.png" height="45" width="45" alt="Power Platform" title="Microsoft Power Platform"/>
+  </a>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" height="45" alt="IDEs"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="45" width="45" alt="DBeaver" title="DBeaver"/>
+
+</div>
+
+<br>
+<hr>
+
+<h2 align="center">📊 Actividad en GitHub</h2>
+
+<div align="center">
+  <a href="https://github.com/raulgar19">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raulgar19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas GitHub" />
+  </a>
+  
+  <a href="https://github.com/raulgar19">
+    <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulgar19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Lenguajes" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<h2 align="center">🏆 Reconocimientos</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=raulgar19&theme=onedark&column=7&no-frame=true&margin-w=15" alt="Trofeos" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E3C2&height=100&section=footer" width="100%"/>
+</div>
