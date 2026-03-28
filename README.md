@@ -1,13 +1,15 @@
 <div align="center">
 
-<h1 align="center">&lt; raul-garcia /&gt;</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=00FF88&center=true&vCenter=true&multiline=true&width=650&height=50&lines=%3C+full+stack+developer+%2F%3E)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=2000&color=00FF88&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Full+Stack+Developer;Code+%C2%B7+Cloud+%C2%B7+Ship+%C2%B7+Repeat.)
+# Raúl <font color="#C17F4A">García</font>
 
-[![LinkedIn](https://img.shields.io/badge/_%2F%2F_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-garc%C3%ADa-mu%C3%B1oz-595974263/)
-[![Gmail](https://img.shields.io/badge/_%2F%2F_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulgamu2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/_%2F%2F_Portfolio-7B2FBE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://raul-garcia-portfolio.netlify.app/)
-[![Visitors](https://komarev.com/ghpvc/?username=raulgar19&label=_//_SESSIONS&color=7B2FBE&style=for-the-badge)](https://github.com/raulgar19)
+**`Code · Cloud · Ship · Repeat`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ra%C3%BAl-garc%C3%ADa-mu%C3%B1oz-595974263/)
+[![Gmail](https://img.shields.io/badge/Gmail-555?style=flat-square&logo=gmail&logoColor=white)](mailto:raulgamu2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C17F4A?style=flat-square&logo=google-chrome&logoColor=white)](https://raul-garcia-portfolio.netlify.app/)
+[![Visitors](https://komarev.com/ghpvc/?username=raulgar19&label=visitors&color=C17F4A&style=flat-square)](https://github.com/raulgar19)
 
 </div>
 
@@ -15,46 +17,114 @@
 
 ## `$ whoami`
 
-<div align="left"><pre>
+<pre>
 {
-  "name"     : "Raúl García Muñoz",
-  "role"     : "Full Stack Developer",
-  "location" : "España 🇪🇸",
-  "education": "Máster Desarrollo Web Full Stack &amp; Multicloud · Tajamar",
-  "focus"    : ["Scalable Backends", "Modern Frontends", "Cloud Architecture"],
-  "cloud"    : ["Azure ☁️", "AWS ☁️"],
-  "status"   : "ONLINE 🟢"
+  "name"      : "Raúl García Muñoz",
+  "role"      : "Full Stack Developer",
+  "location"  : "España 🇪🇸",
+  "education" : "Máster Full Stack & Multicloud · Tajamar",
+  "cloud"     : ["Azure ☁️", "AWS ☁️"],
+  "focus"     : ["Scalable Backends", "Modern Frontends", "Cloud Architecture"],
+  "bugs"      : 0
+  // optimistic default
 }
-</pre></div>
+</pre>
 
 ---
 
-## `$ cat /etc/tech-stack`
+## `$ cat tech-stack`
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Languages** | ![Java](https://skillicons.dev/icons?i=java&theme=dark) ![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark) ![dotnet](https://skillicons.dev/icons?i=dotnet&theme=dark) ![Python](https://skillicons.dev/icons?i=python&theme=dark) ![JavaScript](https://skillicons.dev/icons?i=js&theme=dark) |
-| **Frontend** | ![React](https://skillicons.dev/icons?i=react&theme=dark) ![Angular](https://skillicons.dev/icons?i=angular&theme=dark) ![Vue](https://skillicons.dev/icons?i=vue&theme=dark) ![jQuery](https://skillicons.dev/icons?i=jquery&theme=dark) |
-| **Cloud** | ![Azure](https://skillicons.dev/icons?i=azure&theme=dark) ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) |
-| **DevOps** | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) ![Git](https://skillicons.dev/icons?i=git&theme=dark) ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) |
-| **Databases** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="48" width="48"/> |
-| **Tools** | ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark) ![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="48" width="48"/> |
-| **Low-Code** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/960px-Microsoft_Power_Platform_logo.svg.png" height="48" width="48"/> |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="32"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="32"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Low-Code</b></td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Microsoft_Power_Platform_logo.svg/960px-Microsoft_Power_Platform_logo.svg.png" width="32"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `$ git log --education`
+
+> **Máster en Desarrollo Web Full Stack & Multicloud** — *Tajamar · 2024 — present* · `branch: learning ✓`
+
+![Azure](https://img.shields.io/badge/Azure-555?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-555?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-555?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-555?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-555?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-555?style=flat-square&logo=microsoft&logoColor=white)
 
 ---
 
 ## `$ git log --oneline --graph`
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raulgar19&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00CCFF&currStreakLabel=00FF88&sideLabels=8b949e&dates=8b949e&sideNums=00FF88&currStreakNum=00CCFF" alt="GitHub Streak"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raulgar19/raulgar19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raulgar19/raulgar19/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/raulgar19/raulgar19/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+![Streak](https://streak-stats.demolab.com/?user=raulgar19&theme=transparent&hide_border=true&ring=C17F4A&fire=C17F4A&currStreakLabel=C17F4A&sideLabels=888888&dates=888888&sideNums=C17F4A&currStreakNum=C17F4A)
+
 </div>
-
-
-
 
 ---
 
-<div align="center"><pre>
-  &gt; Thanks for visiting — feel free to reach out, I'm always open to a good conversation.
-  &gt; Whether it's a project, a collaboration, or just a tech chat — let's connect. 🟢
-</pre></div>
+## `$ tail -f /var/log/github-activity.log`
