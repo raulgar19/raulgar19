@@ -127,7 +127,12 @@
 
 ---
 
-## `$ tail -f /var/log/github-activity.log`
+<div align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<pre>
+raulgar19@server:~$ exit
+logout
+Connection closed.
+</pre>
+
+</div>
